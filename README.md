@@ -24,6 +24,7 @@ HR Analytics Dashboard - Power BI Dashboard
 📸Screenshot
 
 **Dashboard 1- HR Analytics**
+
 <img width="1327" height="737" alt="Dashboard1" src="https://github.com/user-attachments/assets/71675d7a-841e-495d-ace2-67818fe2ec4a" />
 
 **1. Super Store Sales Dashboard - Power BI Dashboard**
@@ -93,3 +94,8 @@ The second dashboard is a forecasting tool, predicting sales for the next 15 day
 **Dashboard 2- Super Store Sales Dashboard**
 
 <img width="1328" height="739" alt="Dashboard 2" src="https://github.com/user-attachments/assets/971de7b2-b002-492d-b466-7d96d5ecfaa3" />
+
+**Dashboard 2- Sales Forecasting**
+
+<img width="1321" height="738" alt="Dashboard 2-forecasting" src="https://github.com/user-attachments/assets/5fe01a8d-eb47-4f4d-bc7e-c157ab49327d" />
+
