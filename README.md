@@ -20,6 +20,7 @@ HR Analytics Dashboard - Power BI Dashboard
  b) Data Analysis:- KPI design (attrition %, average salary, tenure etc). Building calculated fields (e.g. attrition by salary slab).
  
 🚀 HR Analytics Dashboard tracks employee attrition across demographics, job role, and salary levels, helping HR pinpoint turnover hotspots.
+
 📸Screenshot
-Dashboard 1- HR Analytics
+**Dashboard 1- HR Analytics**
 <img width="1327" height="737" alt="Dashboard1" src="https://github.com/user-attachments/assets/71675d7a-841e-495d-ace2-67818fe2ec4a" />
