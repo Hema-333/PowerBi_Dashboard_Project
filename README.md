@@ -1,6 +1,6 @@
 **Dashboard 1- HR Analytics**
 
-**HR Analytics Dashboard - Power BI Dashboard **
+HR Analytics Dashboard - Power BI Dashboard
 
 🚀 Excited to share my latest project. I recently built an HR Analytics Dashboard. This dashboard is focused on employee attrition analysis, giving HR leaders visibility into workforce trends. Some of the key insight include:
 
